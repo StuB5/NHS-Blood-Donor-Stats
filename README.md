@@ -1,4 +1,4 @@
-# NHS-Blood_Donor_Stats
+# NHS Blood Donor Stats
  Parses the [NHS blood donation website](https://my.blood.co.uk/) for your donation information and then presents it to you.
  This repository contains both a python script and a folder with an exe which was made using cx_Freeze. The exe requires the whole folder be downloaded to work. These both work in exactly the same way, but the exe allows this to be used without installing python or any of the modules used making it.
  
