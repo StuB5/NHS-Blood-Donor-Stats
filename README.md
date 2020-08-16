@@ -2,7 +2,7 @@
 The code in this project parses the [NHS blood donation website](https://my.blood.co.uk/) for your donor information and then presents it to you in an easy to understand format.
 
 ## Getting Started 
-This repository contains both a python script and a folder with an exe, which was made using cx_Freeze. The exe requires the whole folder be downloaded to work. These both work in exactly the same way, but the exe allows this to be used without installing python or any of the modules used.
+This repository contains both a [python script](Blood_Stats.py) and a [folder with an exe](Blood_Stats_EXE), which was made using cx_Freeze. The exe requires the whole folder be downloaded to work. These both work in exactly the same way, but the exe allows this to be used without installing python or any of the modules used.
 
 The output produced is a map of your donation locations, the time you will achieve your next donation milestone (eg. bronze, silver etc.), your top 3 donation locations and basic information such as number of donations and blood type.
 
