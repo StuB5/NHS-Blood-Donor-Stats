@@ -8,7 +8,7 @@ The output produced is a map of your donation locations, the time you will achie
 
 ### User Inputs
 This script asks the following questions:
-1. Do you have a google maps API key (y/n):
+1. Do you have a [google maps API key](https://developers.google.com/maps/documentation/javascript/get-api-key) (y/n):
    - This does not prevent a map from being produced. If you say 'y', then it will prompt you for your key. If you say 'n' then the map produced will be watermarked. ([With API key](Example-Output/Map_API.png)/[Without API key](Example-Output/Map_Watermark.png))
 2. Please enter your email:
    - This is the email you use for your NHS blood donor account.
