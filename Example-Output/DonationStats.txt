@@ -1,0 +1,6 @@
+Welcome Stuart.
+You have donated 11 pints of B- blood.
+Your current tier is bronze and you are only 14 donations away from silver. At your current rate you should reach this on 14 January 2026.
+Also, here are your top three most visited centres: 
+[('Botley, West Oxford Community Centre', 3), ('Lancaster, Donor Centre', 2), ('Garstang, Country Hotel and Golf Club', 2)]
+A map of your donation locations has now been created on your desktop.
