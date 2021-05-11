@@ -61,7 +61,7 @@ except AttributeError:
     print("\nSomething went wrong. Please check your email and password are correct.")
     exit()
 container = soup.find('div', class_='welcome_container')
-welcome = container.h2.text                                     # Welcome 'first name'
+welcome = container.h1.text                                     # Welcome 'first name'
 info = container.find_all('strong')
 donation_num_str = str.strip(info[0].text)                      # Number of donations
 donation_num = int(donation_num_str)                            # Number of donations as an integer
